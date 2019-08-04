@@ -28,8 +28,10 @@ Press the Submit to submit your code!
 Q: Where is the input and the output?
 A: Your program shall read input from stdin('Standard Input') and write output to stdout('Standard Output').
 
-For example, you can use 'scanf' in C or 'cin' in C++ to read from stdin, and use 'printf' in C or 'cout' in C++ to write to stdout.
-User programs are not allowed to open and read from/write to files, you will get a "Restricted Function" if you try to do so .
+For example, you can use 'scanf' in C or 'cin' in C++ to read from stdin, 
+and use 'printf' in C or 'cout' in C++ to write to stdout.
+User programs are not allowed to open and read from/write to files, 
+you will get a "Restricted Function" if you try to do so .
 
 Here is a sample solution for problem 1 using C:
 
