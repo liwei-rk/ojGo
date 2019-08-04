@@ -14,6 +14,7 @@ Go solutions of OJ
 * [13. Table打印](13.Table打印)
 * [15. A+B Problem Plus 大数相加](15.A+B-Problem-Plus)
 * [16. A-B Problem Plus 大数相减](16.A-B_Problem_Plus)
+* [17. A×B Problem](17.A•B-Problem)
 
 ## TODO 
 Unit test wanted!
