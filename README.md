@@ -17,6 +17,7 @@ Go solutions of OJ
 * [17. A×B Problem 大数相乘](17.A•B-Problem)
 * [19. N! Plus 阶乘](19.N!-Plus)
 * [20. Exponentiation 高精度幂](20.Exponentiation高精度幂)
+* [21. 1-n的最小公倍数](21.1-n的最小公倍数)
 
 ## TODO 
 Unit test wanted!
