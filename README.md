@@ -18,6 +18,7 @@ Go solutions of OJ
 * [19. N! Plus 阶乘](19.N!-Plus)
 * [20. Exponentiation 高精度幂](20.Exponentiation高精度幂)
 * [21. 1-n的最小公倍数](21.1-n的最小公倍数)
+* [22. Prime Plus小于n的素数个数](22.Prime-Plus)
 
 ## TODO 
 Unit test wanted!
