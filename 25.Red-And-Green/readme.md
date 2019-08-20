@@ -102,7 +102,6 @@ func leastPaintBricks(s string) int {
 			dp[i] = dp[i-1]
 			paintedReds[i] = paintedReds[i-1] + 1
 		}
-		// dp[i] = min(paintedReds[i], dp[i])
 		if paintedReds[i] < dp[i] {
 			dp[i] = paintedReds[i]
 		}
