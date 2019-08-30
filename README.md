@@ -23,6 +23,10 @@ Go solutions of OJ
 * [37. Matrix左上角走到右下角的最大和](37.Matrix)
 * [66. GuiLin游船租金动态规划](66.GuiLin)
 * [82. 猴子爬山](82.猴子爬山)
+* [311. Fruit Ninja](311.Fruit_Ninja)
+
+## 随遇随记
+* [孙悟空吃桃](eat-peach)
 
 ## TODO 
 Unit test wanted!
